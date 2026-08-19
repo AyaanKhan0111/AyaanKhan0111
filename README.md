@@ -129,11 +129,12 @@ AI & Software Engineer with deep expertise in **Agentic AI systems**, **producti
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyaanKhan0111&show_icons=true&theme=terminal&title_color=00FF99&text_color=00E5FF&icon_color=00FF99&bg_color=0d1117&hide_border=true)](https://github.com/AyaanKhan0111)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanKhan0111&layout=compact&theme=terminal&title_color=00FF99&text_color=00E5FF&icon_color=00FF99&bg_color=0d1117&hide_border=true)](https://github.com/AyaanKhan0111)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AyaanKhan0111&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=ffffff&icon_color=00FF99&bg_color=0d1117)](https://github.com/AyaanKhan0111)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyaanKhan0111&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=ffffff&bg_color=0d1117)](https://github.com/AyaanKhan0111)
 
 <br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyaanKhan0111&theme=terminal&background=0d1117&border=00ff99&stroke=00ff99&ring=00e5ff&fire=00ff99&currStreakLabel=00e5ff)](https://github.com/AyaanKhan0111)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyaanKhan0111&theme=dark&background=0d1117&border=00ff99&stroke=00ff99&ring=00e5ff&fire=00ff99&currStreakNum=00ff99&currStreakLabel=00e5ff&sideNums=ffffff&sideLabels=38bdf8&dates=94a3b8)](https://github.com/AyaanKhan0111)
 
 </div>
