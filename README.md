@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=210&section=header&text=Ayaan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20AI%20Engineer&descSize=18&descAlignY=62&descColor=38bdf8" width="100%" alt="Ayaan Khan Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=210&section=header&text=Ayaan%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20and%20AI%20Engineer&descSize=18&descAlignY=62&descColor=38bdf8" width="100%" alt="Ayaan Khan Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=600&color=00FF99&center=true&vCenter=true&width=650&lines=Software+%26+AI+Engineer;Specializing+in+Agentic+AI%2C+RAG+%26+Production+MLOps;Undergraduate+Researcher+%40+FAST-NUCES+(5x+Dean's+List);Building+Scalable+AI+Systems+%26+Full-Stack+Platforms" alt="Ayaan Khan Dynamic Typing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=600&color=00FF99&center=true&vCenter=true&width=650&lines=Software+and+AI+Engineer;Specializing+in+Agentic+AI%2C+RAG+and+Production+MLOps;Undergraduate+Researcher+%40+FAST-NUCES+(5x+Dean%27s+List);Building+Scalable+AI+Systems+and+Full-Stack+Platforms" alt="Ayaan Khan Dynamic Typing Text" />
 </a>
 
 <br/><br/>
